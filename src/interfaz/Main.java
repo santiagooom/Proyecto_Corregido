@@ -405,9 +405,9 @@ public class Main {
 
         String[] clavesGuias = {
                 "A00128541",
-                "PENDIENTE_MATEO",
-                "PENDIENTE_DAVID",
-                "PENDIENTE_JUNHAO"
+                "A00131145",
+                "A00135304",
+                "A00131063"
         };
 
         JComboBox<String> comboGuias = new JComboBox<>(nombresGuias);
